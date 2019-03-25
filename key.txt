@@ -1,0 +1,67 @@
+terrain
+
+0 - blank/black
+1 - cell floor
+2 - up cell wall
+3 - right cell wall
+4 - down cell wall
+5 - left cell wall
+6 - upper left outer cell corner
+7 - upper right outer cell corner
+8 - lower right outer cell corner
+9 - lower left outer cell corner
+10 - upper left inner cell corner
+11 - upper right inner cell corner
+12 - lower right inner cell corner
+13 - lower left inner cell corner
+14 - tunnel
+15 - grass
+16 - flower
+17 - small tree
+18 - large tree1
+19 - large tree2
+20 - large tree3
+21 - large tree4
+22 - large tree5
+23 - large tree6
+24 - large tree7
+25 - large tree8
+26 - fence 1
+27 - fence 2
+28 - fence 3
+29 - fence 4
+30 - fence 5
+31 - fence 6
+32 - fence 7
+33 - fence 8
+34 - floor tile
+35 - cell roof
+36 - cell exit 1
+37 - cell exit 2
+38 - cell exit 3
+39 - water
+40 - water 1
+41 - water 2
+42 - water 3
+43 - water 4
+44 - water 5
+45 - water 6
+46 - water 7
+47 - water 8
+48 - door
+49 - roof 1
+50 - roof 2
+51 - house 1
+52 - house 2
+53 - house 3
+54 - boulder 1
+55 - boulder 2
+56 - boulder 3
+57 - boulder 4
+
+obstacles
+
+0 - none
+1 - cell gate
+2 - cell gate
+3 - tall grass
